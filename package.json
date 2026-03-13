@@ -1,0 +1,13 @@
+{
+  "name": "j2-a2-final-activity",
+  "version": "1.0.0",
+  "author": "Robert Buj <rbuj@uoc.edu>",
+  "description": "Final activity for JavaScript 2 course",
+  "scripts": {
+    "ex1": "node src/ex1.js",
+    "ex2": "node src/ex2.js",
+    "start": "npm run ex1 && npm run ex2"
+  },
+  "license": "MIT",
+  "private": true
+}
