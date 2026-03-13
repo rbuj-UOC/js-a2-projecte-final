@@ -27,3 +27,27 @@ npm run ex2
 ```bash
 npm start
 ```
+
+## Executar i depurar a VS Code amb launch.json
+
+El codi dels dos exercicis es poden executar i depurar a VS Code.
+
+Passos per executar o depurar els dos exercicis:
+
+1. Obre la pestanya Run and Debug de VS Code.
+2. Selecciona `Launch Exercise 1` o `Launch Exercise 2` a la llista desplegable superior.
+3. Prem F5 per iniciar la depuració.
+4. Si només vols executar sense analitzar pas a pas, deixa executar el programa fins al final.
+
+Passos de depuració recomanats:
+
+1. Afegeix breakpoints al marge esquerre del fitxer [src/ex1.js](src/ex1.js) o [src/ex2.js](src/ex2.js).
+2. Torna a iniciar amb F5.
+3. Utilitza els controls de depuració:
+   - Continue (F5)
+   - Step Over (F10)
+   - Step Into (F11)
+   - Step Out (Shift+F11)
+4. Revisa el valor de les variables al plafó `VARIABLES` o amb el plafó `DEBUG CONSOLE`.
+
+![imatge de depuració](img/debug.png)
