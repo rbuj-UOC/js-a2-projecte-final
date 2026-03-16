@@ -50,4 +50,4 @@ Passos de depuració recomanats:
    - Step Out (Shift+F11)
 4. Revisa el valor de les variables al plafó `VARIABLES` o amb el plafó `DEBUG CONSOLE`.
 
-![imatge de depuració](img/debug.png)
+![imatge de depuració](img/debug.avif)
